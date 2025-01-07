@@ -5,7 +5,7 @@
       <file path="Components/LiveSplit.NewSuperLuckysTale.dll" status="changed"/>
     </files>
     <changelog>
-      <change>Updated category presets</change>
+      <change>Updated Any% Preset to cover both Console and PC routes</change>
     </changelog>
   </update>
   <update version="1.0.6">
