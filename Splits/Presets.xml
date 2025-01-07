@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <Presets>
-  <Preset name="Any%">
+<Preset name="Any%">
     <Split name="Level_SC_GatheringGolems_01"/>
     <Split name="Level_MG_BurrowRun_01"/>
     <Split name="Level_SC_Arena_02"/>
@@ -17,15 +17,21 @@
     <Split name="Level_MG_BurrowRun_02"/>
     <Split name="Level_HC_Boss_01"/>
     
+    <Split name="Level_MG_SlidingBlock_M"/>
     <Split name="Level_MG_SlidingBlock_N"/>
     <Split name="Level_MG_SlidingBlock_O"/>
+    <Split name="Level_MG_SlidingBlock_P"/>
+    <Split name="Level_MG_SlidingBlock_Q"/>
+    <Split name="Level_MG_SlidingBlock_R"/>
     <Split name="Level_GI_PiratesAbound_01"/>
     <Split name="Level_GI_Boss_01"/>
     
     <Split name="Level_SP_Carnival_D"/>
     <Split name="Level_MG_SpookyTrain"/>
+    <Split name="Level_MG_BurrowRun_03"/>
     <Split name="Cutscene_SP_Boss_01_4"/>
   </Preset>
+  
   <Preset name="All Main Levels">
     <Split name="Level_SC_GatheringGolems_01"/>
     <Split name="Level_2D_FallGrind_01"/>
