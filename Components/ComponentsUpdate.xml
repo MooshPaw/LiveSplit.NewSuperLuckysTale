@@ -1,55 +1,63 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <updates>
-  <update version="1.0.6">
-    <files>
-      <file path="Components/LiveSplit.NewSuperLuckysTale.dll" status="changed"/>
-    </files>
-    <changelog>
-      <change>Added ability to display current FPS in a text component</change>
-    </changelog>
-  </update>
-  <update version="1.0.5">
-    <files>
-      <file path="Components/LiveSplit.NewSuperLuckysTale.dll" status="changed"/>
-    </files>
-    <changelog>
-      <change>Change "Go Fetch" split</change>
-    </changelog>
-  </update>
-  <update version="1.0.4">
-    <files>
-      <file path="Components/LiveSplit.NewSuperLuckysTale.dll" status="changed"/>
-    </files>
-    <changelog>
-      <change>Add Foxington splits</change>
-      <change>Add 100% preset</change>
-    </changelog>
-  </update>
-  <update version="1.0.3">
-    <files>
-      <file path="Components/LiveSplit.NewSuperLuckysTale.dll" status="changed"/>
-    </files>
-    <changelog>
-      <change>Add marble and sliding block splits</change>
-      <change>Add split for all levels and all puzzles</change>
-      <change>Add All Main Levels and All Pages presets</change>
-    </changelog>
-  </update>
-  <update version="1.0.2">
-    <files>
-      <file path="Components/LiveSplit.NewSuperLuckysTale.dll" status="changed"/>
-    </files>
-    <changelog>
-      <change>Fix race condition crash for log file</change>
-    </changelog>
-  </update>
-  <update version="1.0.1">
-    <files>
-      <file path="Components/LiveSplit.NewSuperLuckysTale.dll" status="changed"/>
-    </files>
-    <changelog>
-      <change>Add Jinx split</change>
-      <change>Support Game Pass version</change>
-    </changelog>
-  </update>
+	<update version="1.0.7">
+		<files>
+			<file path="Components/LiveSplit.NewSuperLuckysTale.dll" status="changed"/>
+		</files>
+		<changelog>
+			<change>Updated Any% Preset to cover both Console and PC routes</change>
+		</changelog>
+	</update>
+	<update version="1.0.6">
+		<files>
+			<file path="Components/LiveSplit.NewSuperLuckysTale.dll" status="changed"/>
+		</files>
+		<changelog>
+			<change>Added ability to display current FPS in a text component</change>
+		</changelog>
+	</update>
+	<update version="1.0.5">
+		<files>
+			<file path="Components/LiveSplit.NewSuperLuckysTale.dll" status="changed"/>
+		</files>
+		<changelog>
+			<change>Change "Go Fetch" split</change>
+		</changelog>
+	</update>
+	<update version="1.0.4">
+		<files>
+			<file path="Components/LiveSplit.NewSuperLuckysTale.dll" status="changed"/>
+		</files>
+		<changelog>
+			<change>Add Foxington splits</change>
+			<change>Add 100% preset</change>
+		</changelog>
+	</update>
+	<update version="1.0.3">
+		<files>
+			<file path="Components/LiveSplit.NewSuperLuckysTale.dll" status="changed"/>
+		</files>
+		<changelog>
+			<change>Add marble and sliding block splits</change>
+			<change>Add split for all levels and all puzzles</change>
+			<change>Add All Main Levels and All Pages presets</change>
+		</changelog>
+	</update>
+	<update version="1.0.2">
+		<files>
+			<file path="Components/LiveSplit.NewSuperLuckysTale.dll" status="changed"/>
+		</files>
+		<changelog>
+			<change>Fix race condition crash for log file</change>
+		</changelog>
+	</update>
+	<update version="1.0.1">
+		<files>
+			<file path="Components/LiveSplit.NewSuperLuckysTale.dll" status="changed"/>
+		</files>
+		<changelog>
+			<change>Add Jinx split</change>
+			<change>Support Game Pass version</change>
+		</changelog>
+	</update>
 </updates>
